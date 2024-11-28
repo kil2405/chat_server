@@ -1,0 +1,6 @@
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\publish\PacketGenerator
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\publish\PacketGenerator.dll
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\publish\PacketGenerator.deps.json
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\publish\PacketGenerator.runtimeconfig.json
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\publish\PacketGenerator.pdb
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\publish\Google.Protobuf.dll

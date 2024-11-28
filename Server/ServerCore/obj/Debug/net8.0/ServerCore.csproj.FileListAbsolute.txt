@@ -1,0 +1,11 @@
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RealTimeSever\Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+D:\WorkSpace\RealTimeSever\Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
+D:\WorkSpace\RealTimeSever\Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+D:\WorkSpace\RealTimeSever\Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll

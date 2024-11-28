@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nv8uDh2nlQY=",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\RealTimeSever\\Server\\PacketGenerator\\PacketGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KDG\\.nuget\\packages\\google.protobuf\\3.27.2\\google.protobuf.3.27.2.nupkg.sha512"
+  ],
+  "logs": []
+}

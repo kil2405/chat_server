@@ -1,0 +1,3 @@
+D:\WorkSpace\RealTimeSever\Server\ServerCore\bin\Release\net8.0\linux-x64\publish\ServerCore.dll
+D:\WorkSpace\RealTimeSever\Server\ServerCore\bin\Release\net8.0\linux-x64\publish\ServerCore.deps.json
+D:\WorkSpace\RealTimeSever\Server\ServerCore\bin\Release\net8.0\linux-x64\publish\ServerCore.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rl02Bdnk6qI=",
+  "success": true,
+  "projectFilePath": "D:\\WorkSpace\\RealTimeSever\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KDG\\.nuget\\packages\\google.protobuf\\3.27.2\\google.protobuf.3.27.2.nupkg.sha512"
+  ],
+  "logs": []
+}

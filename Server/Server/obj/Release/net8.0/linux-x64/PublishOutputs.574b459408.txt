@@ -1,0 +1,8 @@
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\Server
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\Server.dll
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\Server.deps.json
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\Server.runtimeconfig.json
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\Server.pdb
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\Google.Protobuf.dll
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\ServerCore.dll
+D:\WorkSpace\RealTimeSever\Server\Server\bin\Release\net8.0\linux-x64\publish\ServerCore.pdb

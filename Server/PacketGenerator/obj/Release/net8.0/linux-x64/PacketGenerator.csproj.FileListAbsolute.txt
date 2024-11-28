@@ -1,0 +1,17 @@
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\PacketGenerator
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\PacketGenerator.deps.json
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\PacketGenerator.runtimeconfig.json
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\PacketGenerator.dll
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\PacketGenerator.pdb
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\bin\Release\net8.0\linux-x64\Google.Protobuf.dll
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.csproj.AssemblyReference.cache
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.AssemblyInfoInputs.cache
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.AssemblyInfo.cs
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGe.F1D84891.Up2Date
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.dll
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\refint\PacketGenerator.dll
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.pdb
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\PacketGenerator.genruntimeconfig.cache
+D:\WorkSpace\RealTimeSever\Server\PacketGenerator\obj\Release\net8.0\linux-x64\ref\PacketGenerator.dll
